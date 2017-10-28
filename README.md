@@ -1,6 +1,6 @@
-% Design and evaluation of viewpoint invariant feature descriptors using convolutional neural networks - software documentation
+# Design and evaluation of viewpoint invariant feature descriptors using convolutional neural networks - software documentation
 
-Master thesis, Krzysztof Lis 2017
+*Master thesis, Krzysztof Lis 2017*
 
 This is the code used in my [master thesis](http://liskr.net/pub/MasterThesis-KrzysztofLis.pdf),
 in which I compare different ways of achieving viewpoint-invariance in feature descriptors:
